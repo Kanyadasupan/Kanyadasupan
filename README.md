@@ -30,5 +30,5 @@
 
 
 <div align="right">
-  <img src="https://profile-counter.glitch.me/KanyadaSupan/count.svg" alt="visitor count" />
+  <img src="https://profile-counter.glitch.me/Kanyadasupan/count.svg" alt="visitor count" />
 </div>
