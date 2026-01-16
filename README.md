@@ -27,9 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanyadaSupan&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanyadaSupan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
