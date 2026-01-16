@@ -29,3 +29,6 @@
 - 📧 **Email:** [s6652410028@sau.ac.th]
 
 
+<div align="right">
+  <img src="https://profile-counter.glitch.me/KanyadaSupan/count.svg" alt="visitor count" />
+</div>
