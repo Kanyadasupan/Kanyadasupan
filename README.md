@@ -13,10 +13,11 @@
 
 <br/>
 
-### 📊 สถิติ GitHub ของ KanyadaSupan
+### 🔥 สถิติ GitHub ของ Nick
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanyadasupan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanyadasupan&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanyadasupan&theme=radical" alt="GitHub Profile Details" />
+</div>
 
 ---
 
