@@ -23,12 +23,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanyadasupan&theme=radical" alt="GitHub Profile Details" />
 </div>
 
-### 🚀 กิจกรรมของฉัน (3D)
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanyadasupan&theme=radical" alt="Profile Details" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanyadasupan&show_icons=true&theme=radical&hide_border=true" />
-</div>
+
 
 ---
 
