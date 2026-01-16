@@ -1,10 +1,10 @@
-# สวัสดี! ฉันชื่อ Nick 👋
+# สวัสดี! ฉันชื่อ Kanyada 👋
 
 ฉันเป็นนักพัฒนาที่ชอบเรียนรู้เทคโนโลยีใหม่ๆ ทั้ง Web และ Mobile Application 
 
 ---
 
-### 🛠️ Tech Stack ของผม
+### 🛠️ Tech Stack ของฉัน
 ฉันสามารถเขียนและใช้งานเครื่องมือเหล่านี้ได้:
 
 <div align="left">
@@ -13,7 +13,7 @@
 
 <br/>
 
-### 🔥 สถิติ GitHub ของ Nick
+### 🔥 สถิติ GitHub ของ Kanyada
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanyadasupan&theme=radical" alt="GitHub Profile Details" />
