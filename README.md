@@ -16,9 +16,9 @@
 ### 📊 สถิติ GitHub ของ KanyadaSupan
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanyadaSupan&show_icons=true&theme=radical&hide_border=true" alt="KanyadaSupan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanyadasupan&show_icons=true&theme=radical&hide_border=true" alt="KanyadaSupan's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanyadaSupan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanyadasupan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
