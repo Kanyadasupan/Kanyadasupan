@@ -23,12 +23,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanyadasupan&theme=radical" alt="GitHub Profile Details" />
 </div>
 
+### 🏆 ผลงานความสำเร็จ
+[![trophy](https://github-profile-trophy.vercel.app/?username=KanyadaSupan&theme=radical&no-frame=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 💬 ช่องทางการติดต่อ
 - 📧 **Email:** [s6652410028@sau.ac.th]
 
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/Kanyadasupan/count.svg" alt="visitor count" />
-</div>
