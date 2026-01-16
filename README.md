@@ -23,10 +23,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanyadasupan&theme=radical" alt="GitHub Profile Details" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanyadaSupan&layout=compact&theme=radical&hide_border=true" />
-</div>
-
 
 ---
 
