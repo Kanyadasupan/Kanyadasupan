@@ -23,14 +23,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanyadasupan&theme=radical" alt="GitHub Profile Details" />
 </div>
 
-
+### 💻 โปรเจกต์ที่น่าสนใจ
+<div align="center">
+  <a href="https://github.com/Kanyadasupan/ชื่อ_REPO_ของคุณ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kanyadasupan&repo=ชื่อ_REPO_ของคุณ&theme=radical" />
+  </a>
+</div>
 
 ---
 
-### 💬 ช่องทางการติดต่อ
+### 🤝 Connect with Nick
 <p align="left">
   <a href="mailto:s6652410028@sau.ac.th">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kanyadasupan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   </p>
 
