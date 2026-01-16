@@ -23,13 +23,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanyadasupan&theme=radical" alt="GitHub Profile Details" />
 </div>
 
-### 💻 โปรเจกต์ที่น่าสนใจ
-<div align="center">
-  <a href="https://github.com/Kanyadasupan/ชื่อ_REPO_ของคุณ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kanyadasupan&repo=next-food-tracker-firebase-app&theme=radical" />
-  </a>
-</div>
-
 ---
 
 ### 🤝 Connect with Nick
