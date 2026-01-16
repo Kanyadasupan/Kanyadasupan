@@ -26,7 +26,7 @@
 ### 💻 โปรเจกต์ที่น่าสนใจ
 <div align="center">
   <a href="https://github.com/Kanyadasupan/ชื่อ_REPO_ของคุณ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kanyadasupan&repo=ชื่อ_REPO_ของคุณ&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kanyadasupan&repo=Kanyadasupan&theme=radical" />
   </a>
 </div>
 
