@@ -23,3 +23,7 @@
 
 ### 💬 ช่องทางการติดต่อ
 - 📧 **Email:** [s6652410028@sau.ac.th]
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%7C+Flutter+%7C+.NET;Coding+is+fun!+🚀" alt="Typing SVG" />
+</div>
