@@ -1,16 +1,25 @@
-## Hi there 👋
+# สวัสดี! ฉันชื่อ [Kanyada] 👋
 
-<!--
-**Kanyadasupan/Kanyadasupan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ฉันเป็นนักพัฒนาที่กำลังฝึกฝนและเรียนรู้สิ่งใหม่ๆ!
 
-Here are some ideas to get you started:
+### 🔭 สิ่งที่ฉันกำลังสนใจ
+* 🌱 ตอนนี้กำลังเรียนเกี่ยวกับ: **[เช่น Python, React, Data Science]**
+* 👯 กำลังมองหาโอกาส: **[ฝึกงาน / ทำโปรเจกต์ร่วมกัน]**
+* 💬 มาคุยกันเรื่อง: **[เกม, เทคโนโลยี, หนัง]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ เครื่องมือที่ผมใช้ (Languages & Tools)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 📊 สถิติ GitHub ของผม
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="github stats" />
+</p>
