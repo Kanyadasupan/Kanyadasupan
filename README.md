@@ -24,17 +24,21 @@ I’m a 22-year-old developer passionate about building seamless web experiences
   <img src="https://skillicons.dev/icons?i=nodejs,flutter,nextjs,laravel,postgres,mysql,supabase&theme=dark" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" height="48" />
 </div>
+
 ---
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%7C+Flutter+%7C+.NET;Coding+is+fun!+🚀" alt="Typing SVG" />
 </div>
 ---
+
 ### 🔥 GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanyadasupan&theme=radical" alt="GitHub Profile Details" />
 </div>
+
 ---
+
 ### 💬 Connect with Me
 <p align="left">
   <a href="mailto:s6652410028@sau.ac.th">
