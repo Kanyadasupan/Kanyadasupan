@@ -15,21 +15,17 @@ I’m a 22-year-old developer passionate about building seamless web experiences
   - 📱 Mobile: Flutter, React Native, Expo Go
   - 🛠️ Frameworks: Next.js, Laravel
   - 🗄️ Databases: PostgreSQL, MySQL, Supabase
-  - 💻 Tools & Environments: XAMPP, Laragon, Composer, AI/ML Fundamentals
+  - 💻 Tools & Environments: XAMPP, Laragon, Composer
 - 🎯 **Goal:** Seeking an **Internship** for June 2026
 - 🌏 **Dream:** To become a renowned expert and reach the pinnacle of my field in the tech industry.
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py,cpp,dart,html,css,react,tailwind,nodejs,apache,flutter,nextjs,laravel,postgres,mysql,supabase&theme=dark" />
+</div>
 ---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%7C+Flutter+%7C+.NET;Coding+is+fun!+🚀" alt="Typing SVG" />
-</div>
-
-### 🛠️ Tech Stack ของฉัน
-ฉันสามารถเขียนและใช้งานเครื่องมือเหล่านี้ได้:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,flutter,supabase,php,html,css,tailwind,cs,dotnet" />
 </div>
 
 <br/>
