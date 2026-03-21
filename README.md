@@ -1,6 +1,23 @@
-# สวัสดี! ฉันชื่อ Kanyada 👋
+# Hi , I'm Kanyada 👋 🇰🇷
 
-ฉันเป็นนักพัฒนาที่ชอบเรียนรู้เทคโนโลยีใหม่ๆ ทั้ง Web และ Mobile Application 
+### 👨‍💻 Full-stack Developer | Digital Technology & Innovation Student
+
+I’m a 22-year-old developer passionate about building seamless web experiences and exploring the world of AI/ML. Currently, I'm focusing on mastering the fundamentals of Machine Learning to level up my career.
+
+---
+
+### 🚀 Quick Glance
+- 🔭 **Current Project:** Working on **Locomall (Local Community Mall)** (A Community-driven Hyper-local Marketplace Web Apprication) built with Next.js, TypeScript
+- 🚀 My Current Tech Stack & Learning
+  - ⌨️ Languages: JavaScript, TypeScript, PHP, Python, C++, Dart, HTML, CSS
+  - 🎨 Frontend: React, Tailwind CSS
+  - ⚙️ Backend: Node.js, Apache
+  - 📱 Mobile: Flutter, React Native, Expo Go
+  - 🛠️ Frameworks: Next.js, Laravel
+  - 🗄️ Databases: PostgreSQL, MySQL, Supabase
+  - 💻 Tools & Environments: XAMPP, Laragon, Composer, AI/ML Fundamentals
+- 🎯 **Goal:** Seeking an **Internship** for June 2026
+- 🌏 **Dream:** To become a renowned expert and reach the pinnacle of my field in the tech industry.
 
 ---
 
