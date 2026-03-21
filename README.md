@@ -20,7 +20,8 @@ I’m a 22-year-old developer passionate about building seamless web experiences
 - 🌏 **Dream:** To become a renowned expert and reach the pinnacle of my field in the tech industry.
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,py,cpp,dart,html,css,react,tailwind,nodejs,apache,flutter,nextjs,laravel,postgres,mysql,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py,cpp,dart,html,css,react,tailwind&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,apache,flutter,nextjs,laravel,postgres,mysql,supabase&theme=dark" />
 </div>
 ---
 
