@@ -1,4 +1,4 @@
-# Hi , I'm Kanyada 👋 🇰🇷
+# Hi , I'm Kanyada 👋
 
 ### 👨‍💻 Full-stack Developer | Digital Technology & Innovation Student
 
