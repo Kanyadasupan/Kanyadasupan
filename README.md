@@ -28,7 +28,7 @@ I’m a 22-year-old developer passionate about building seamless web experiences
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%7C+React Native+%7C+TypeScript;Coding+is+fun!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%7C+ReactNative+%7C+TypeScript;Coding+is+fun!+🚀" alt="Typing SVG" />
 </div>
 
 ---
